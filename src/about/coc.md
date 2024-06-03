@@ -1,47 +1,47 @@
-# Code Of Conduct {#code-of-conduct}
+# Κώδικας Δεοντολογίας {#code-of-conduct}
 
-## Our Pledge {#our-pledge}
+## Η Yπόσχεσή Mας {#our-pledge}
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, political party, or sexual identity and orientation. Note, however, that religion, political party, or other ideological affiliation provide no exemptions for the behavior we outline as unacceptable in this Code of Conduct.
+Προς το συμφέρον της προώθησης ενός ανοιχτού και φιλόξενου περιβάλλοντος, εμείς ως συντελεστές και συντηρητές δεσμευόμαστε να κάνουμε τη συμμετοχή στο έργο μας και την κοινότητά μας μια εμπειρία χωρίς παρενόχληση για όλους, ανεξαρτήτως ηλικίας, μεγέθους σώματος, αναπηρίας, εθνικότητας, φύλου, ταυτότητας φύλου και έκφρασης, επίπεδου εμπειρίας, εκπαίδευσης, κοινωνικοοικονομικής κατάστασης, εθνότητας, προσωπικής εμφάνισης, φυλής, θρησκείας, πολιτικού κόμματος ή σεξουαλικής ταυτότητας και προσανατολισμού. Σημειώστε, ωστόσο, ότι η θρησκεία, το πολιτικό κόμμα ή άλλες ιδεολογικές σχέσεις δεν παρέχουν εξαιρέσεις για τη συμπεριφορά που περιγράφουμε ως απαράδεκτη σε αυτόν τον Κώδικα Δεοντολογίας.
 
-## Our Standards {#our-standards}
+## Τα Πρότυπά Mας {#our-standards}
 
-Examples of behavior that contributes to creating a positive environment include:
+Παραδείγματα συμπεριφοράς που συμβάλλουν στη δημιουργία ενός θετικού περιβάλλοντος περιλαμβάνουν:
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+- Χρήση φιλόξενης και συμπεριληπτικής γλώσσας
+- Να σέβεσαι τις διαφορετικές απόψεις και εμπειρίες
+- Δέχεται με χαρά την εποικοδομητική κριτική
+- Εστιάσε σε αυτό που είναι καλύτερο για την κοινότητα
+- Δείξε ενσυναίσθηση προς άλλα μέλη της κοινότητας
 
-Examples of unacceptable behavior by participants include:
+Παραδείγματα απαράδεκτης συμπεριφοράς από τους συμμετέχοντες περιλαμβάνουν:
 
-- The use of sexualized language or imagery and unwelcome sexual attention or advances
-- Trolling, insulting/derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or electronic address, without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+- Η χρήση σεξουαλικής γλώσσας ή εικόνων και ανεπιθύμητη σεξουαλική προσοχή ή προόδους
+- Τρολάρισμα, προσβλητικά/υβριστικά σχόλια και προσωπικές ή πολιτικές επιθέσεις
+- Δημόσια ή ιδιωτική παρενόχληση
+- Δημοσίευση προσωπικών στοιχείων τρίτων, όπως φυσική ή ηλεκτρονική διεύθυνση, χωρίς ρητή άδεια
+- Άλλη συμπεριφορά που θα μπορούσε εύλογα να θεωρηθεί ακατάλληλη σε επαγγελματικό περιβάλλον
 
-## Our Responsibilities {#our-responsibilities}
+## Οι Eυθύνες Mας {#our-responsibilities}
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Οι συντηρητές του έργου είναι υπεύθυνοι για την αποσαφήνιση των προτύπων αποδεκτής συμπεριφοράς και αναμένεται να λάβουν τα κατάλληλα και δίκαια διορθωτικά μέτρα ως απάντηση σε τυχόν περιπτώσεις απαράδεκτης συμπεριφοράς.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+Οι συντηρητές του έργου έχουν το δικαίωμα και την ευθύνη να αφαιρούν, να επεξεργάζονται ή να απορρίπτουν σχόλια, commits, κώδικα, αλλαγές σε σελίδες wiki, ζητήματα και άλλες συνεισφορές που δεν ευθυγραμμίζονται με αυτόν τον Κώδικα Δεοντολογίας ή να απαγορεύουν προσωρινά ή μόνιμα οποιονδήποτε συνεισφέρει για άλλες συμπεριφορές που θεωρούν ακατάλληλο, απειλητικό, προσβλητικό ή επιβλαβές.
 
-## Scope {#scope}
+## Σκοπός {#scope}
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+Αυτός ο Κώδικας Δεοντολογίας εφαρμόζεται τόσο εντός των χώρων του έργου όσο και σε δημόσιους χώρους όταν ένα άτομο εκπροσωπεί το έργο ή την κοινότητά του. Παραδείγματα εκπροσώπησης ενός έργου ή της κοινότητας περιλαμβάνουν τη χρήση μιας επίσημης διεύθυνσης ηλεκτρονικού ταχυδρομείου έργου, τη δημοσίευση μέσω ενός επίσημου λογαριασμού μέσων κοινωνικής δικτύωσης ή ως διορισμένος εκπρόσωπος σε μια διαδικτυακή ή σε μια εκτός σύνδεσης εκδήλωση. Η αντιπροσώπευση ενός έργου μπορεί να οριστεί περαιτέρω και να διευκρινιστεί από τους συντηρητές του έργου.
 
-## Enforcement {#enforcement}
+## Επιβολή {#enforcement}
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at community@vuejs.org. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Περιπτώσεις κατάχρησης, παρενόχλησης ή άλλης απαράδεκτης συμπεριφοράς μπορούν να αναφερθούν επικοινωνώντας με την ομάδα του έργου στη διεύθυνση community@vuejs.org. Όλα τα παράπονα θα επανεξεταστούν και θα διερευνηθούν και θα καταλήξουν σε μια απάντηση που κρίνεται απαραίτητη και κατάλληλη για τις περιστάσεις. Η ομάδα έργου είναι υποχρεωμένη να τηρεί εμπιστευτικότητα σε σχέση με τον αναφέροντα ενός περιστατικού. Περαιτέρω λεπτομέρειες για συγκεκριμένες πολιτικές επιβολής ενδέχεται να αναρτηθούν χωριστά.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+Οι συντηρητές του έργου που δεν ακολουθούν ή δεν επιβάλλουν τον Κώδικα Δεοντολογίας με καλή πίστη ενδέχεται να αντιμετωπίσουν προσωρινές ή μόνιμες επιπτώσεις όπως καθορίζονται από άλλα μέλη της ηγεσίας του έργου.
 
-## Attribution {#attribution}
+## Απόδοση {#attribution}
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+Αυτός ο Κώδικας Συμπεριφοράς προσαρμόστηκε από το [Contributor Covenant][homepage], έκδοση 1.4, που διατίθεται στη διεύθυνση https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
-For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq
+Για απαντήσεις σε συνήθεις ερωτήσεις σχετικά με αυτόν τον κώδικα δεοντολογίας, δείτε https://www.contributor-covenant.org/faq
 
 [homepage]: https://www.contributor-covenant.org
